@@ -1,0 +1,12 @@
+{
+  "app": {
+    "id": "str",
+    "action": ["connect", "disconnect", "verify"],
+    "data": {}
+  },
+  "cart": {
+    "app_id": "str",
+    "action": ["add", "remove", "update", "get"],
+    "data": {}
+  }
+}
